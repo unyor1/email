@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python send_email_user.py --use_supabase --send-all"
